@@ -1,9 +1,7 @@
 # บทที่ 1
-xxxxx
 
 
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/8X1sf5BvK0o?list=PL3-rZgmhkOFcP2hzubPEflkfFjTKWwUA-)
+[![IMAGE ALT TEXT HERE](https://github.com/adminho/book-beginner-python/images/chapter01.png)](https://youtu.be/8X1sf5BvK0o?list=PL3-rZgmhkOFcP2hzubPEflkfFjTKWwUA-)
 
 # บทที่ 2
 xxxxx
