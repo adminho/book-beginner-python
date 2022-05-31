@@ -1,7 +1,7 @@
 # บทที่ 1
 
 
-[![IMAGE ALT TEXT HERE](https://github.com/adminho/book-beginner-python/images/chapter01.png)](https://youtu.be/8X1sf5BvK0o?list=PL3-rZgmhkOFcP2hzubPEflkfFjTKWwUA-)
+[![IMAGE ALT TEXT HERE](images/chapter01.png)](https://youtu.be/8X1sf5BvK0o?list=PL3-rZgmhkOFcP2hzubPEflkfFjTKWwUA-)
 
 # บทที่ 2
 xxxxx
