@@ -5,6 +5,7 @@
 
 # Chapter 2
 xxxxx
+
 # Chapter 3
 # Chapter 4
 # Chapter 5
@@ -20,5 +21,6 @@ xxxxx
 # Chapter 15
 # Chapter 16
 # Chapter 17
-
-
+# Install VS Code
+# Set path
+xxxx
