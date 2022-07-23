@@ -1,3 +1,3 @@
-from matplotlib import pyplot
-pyplot.plot(1, 2, 'x')
-pyplot.show()
+import matplotlib.pyplot as plt
+plt.plot(1, 2, 'x')
+plt.show()
