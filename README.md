@@ -7,7 +7,8 @@
 <!-กำลังสร้าง->
 
 # Chapter 3
-<!-กำลังสร้าง->
+[![IMAGE ALT TEXT HERE](images/chapter03.png)](https://youtu.be/hpTsGMoeamI)
+
 # Chapter 4
 <!-กำลังสร้าง->
 # Chapter 5
