@@ -7,7 +7,7 @@
 <!-กำลังสร้าง->
 
 # Chapter 3
-[![IMAGE ALT TEXT HERE](images/chapter03.png)](https://youtu.be/hpTsGMoeamI)
+[![IMAGE ALT TEXT HERE](images/chapter03.png)](https://youtu.be/08Tenx8qiWY)
 
 # Chapter 4
 <!-กำลังสร้าง->
