@@ -12,13 +12,13 @@
 # Chapter 4
 <!-กำลังสร้าง->
 # Chapter 5
-[![IMAGE ALT TEXT HERE](images/chapter05.png)](https://youtu.be/rJZ9-S7qH0E)
+[![IMAGE ALT TEXT HERE](images/chapter05.png)](https://youtu.be/BwVzqVx4CBY)
 
 
 # Chapter 6
 <!-กำลังสร้าง->
 # Chapter 7
-[![IMAGE ALT TEXT HERE](images/chapter07.png)]([https://youtu.be/rJZ9-S7qH0E](https://youtu.be/oS3Iekm7kBE))
+[![IMAGE ALT TEXT HERE](images/chapter07.png)](https://youtu.be/oS3Iekm7kBE)
 
 
 <!-กำลังสร้าง->
