@@ -18,6 +18,9 @@
 # Chapter 6
 <!-กำลังสร้าง->
 # Chapter 7
+[![IMAGE ALT TEXT HERE](images/chapter07.png)]([https://youtu.be/rJZ9-S7qH0E](https://youtu.be/oS3Iekm7kBE))
+
+
 <!-กำลังสร้าง->
 # Chapter 8
 <!-กำลังสร้าง->
