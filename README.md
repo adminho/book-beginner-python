@@ -4,7 +4,8 @@
 [![IMAGE ALT TEXT HERE](images/chapter01.png)](https://youtu.be/8X1sf5BvK0o?list=PL3-rZgmhkOFcP2hzubPEflkfFjTKWwUA-)
 
 # Chapter 2
-<!-กำลังสร้าง->
+[![IMAGE ALT TEXT HERE](images/chapter02.png)](https://youtu.be/7vp0qWJb9fY)
+
 
 # Chapter 3
 [![IMAGE ALT TEXT HERE](images/chapter03.png)](https://youtu.be/8hVPM3PmC2s)
