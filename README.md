@@ -27,7 +27,8 @@
 [![IMAGE ALT TEXT HERE](images/chapter08.png)](https://youtu.be/aQKB35WCj_E)
 
 # Chapter 9
-<!-กำลังสร้าง->
+[![IMAGE ALT TEXT HERE](images/chapter09.png)](https://youtu.be/JqR_DkaYkAQ)
+
 # Chapter 10
 <!-กำลังสร้าง->
 # Chapter 11
