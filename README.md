@@ -38,7 +38,7 @@
 # Chapter 13
 <!-กำลังสร้าง->
 # Chapter 14
-<!-กำลังสร้าง->
+[![IMAGE ALT TEXT HERE](images/chapter14.png)](https://youtu.be/bfEx3uU7y8k)
 # Chapter 15
 <!-กำลังสร้าง->
 # Chapter 16
