@@ -62,3 +62,6 @@
 <!-กำลังสร้าง->
 # Set path
 <!-กำลังสร้าง->
+
+# รีวิวหนังสือ
+[![IMAGE ALT TEXT HERE](images/review_book.png)](https://youtu.be/9gDnbUo9n7U)
