@@ -61,9 +61,9 @@
 # Install VS Code
 ผู้เขียนได้ทำคลิปสรุปวิธีติดตั้งเครื่องมือ ได้แก่ Anaconda และ Visual Studio Code
 
-[![IMAGE ALT TEXT HERE](images/install_tool.PNG)](https://youtu.be/ba-vGS8G_Ig)
+[![IMAGE ALT TEXT HERE](images/install_tool.png)](https://youtu.be/ba-vGS8G_Ig)
 # Set path
 <!-กำลังสร้าง->
 
 # รีวิวหนังสือ
-[![IMAGE ALT TEXT HERE](images/review_book.PNG)](https://youtu.be/9gDnbUo9n7U)
+[![IMAGE ALT TEXT HERE](images/review_book.png)](https://youtu.be/9gDnbUo9n7U)
