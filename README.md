@@ -59,7 +59,7 @@
 # Chapter 17
 <!-กำลังสร้าง->
 # Install VS Code
-<!-กำลังสร้าง->
+[![IMAGE ALT TEXT HERE](images/install_tool.png)](https://youtu.be/ba-vGS8G_Ig)
 # Set path
 <!-กำลังสร้าง->
 
