@@ -60,6 +60,7 @@
 <!-กำลังสร้าง->
 # Install VS Code
 ผู้เขียนได้ทำคลิปสรุปวิธีติดตั้งเครื่องมือ ได้แก่ Anaconda และ Visual Studio Code
+
 [![IMAGE ALT TEXT HERE](images/install_tool.png)](https://youtu.be/ba-vGS8G_Ig)
 # Set path
 <!-กำลังสร้าง->
