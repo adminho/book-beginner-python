@@ -37,23 +37,26 @@
 # Chapter 13
 ผู้เขียนได้ทำคลิปสอน เพื่อไล่ดีบั๊กดูการทำงานของประโยคคำสั่งรูปแบบ while
 [![IMAGE ALT TEXT HERE](images/chapter13.png)](https://youtu.be/Abd7V_ykSzQ)
+
 # Chapter 14
 ผู้เขียนได้ทำคลิปสอน เพื่อไล่ดีบั๊กดูการทำงานของประโยคคำสั่งรูปแบบ for
-
 [![IMAGE ALT TEXT HERE](images/chapter14.png)](https://youtu.be/bfEx3uU7y8k)
-# Chapter 15
 
+# Chapter 15
 ผู้เขียนได้ทำคลิปสอน เพื่อไล่ดีบั๊กดูการทำงานของประโยคคำสั่งรูปแบบ break กับ continue
 [![IMAGE ALT TEXT HERE](images/chapter15.png)](https://youtu.be/Tr-auuUNsG4)
 
 # Chapter 16
-<!-กำลังสร้าง->
+ผู้เขียนได้ทำคลิปสอน เพื่อไล่ดีบั๊กดูการทำงานของโปรแกรมเมื่อเกิด exception
+[![IMAGE ALT TEXT HERE](images/chapter15.png)](https://youtu.be/20koiwNgqJU)
+
 # Chapter 17
 <!-กำลังสร้าง->
+
 # Install VS Code
 ผู้เขียนได้ทำคลิปสรุปวิธีติดตั้งเครื่องมือ ได้แก่ Anaconda และ Visual Studio Code
-
 [![IMAGE ALT TEXT HERE](images/install_tool.PNG)](https://youtu.be/ba-vGS8G_Ig)
+
 # Set path
 <!-กำลังสร้าง->
 
