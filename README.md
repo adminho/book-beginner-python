@@ -48,10 +48,11 @@
 
 # Chapter 16
 ผู้เขียนได้ทำคลิปสอน เพื่อไล่ดีบั๊กดูการทำงานของโปรแกรมเมื่อเกิด exception
-[![IMAGE ALT TEXT HERE](images/chapter15.png)](https://youtu.be/20koiwNgqJU)
+[![IMAGE ALT TEXT HERE](images/chapter16.png)](https://youtu.be/20koiwNgqJU)
 
 # Chapter 17
-<!-กำลังสร้าง->
+ู้เขียนได้ทำคลิปสอน เพื่ออธิบายเรื่อง module
+[![IMAGE ALT TEXT HERE](images/chapter17.png)](https://youtu.be/SDuRsUf3x_s)
 
 # Install VS Code
 ผู้เขียนได้ทำคลิปสรุปวิธีติดตั้งเครื่องมือ ได้แก่ Anaconda และ Visual Studio Code
