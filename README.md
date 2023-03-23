@@ -51,7 +51,7 @@
 [![IMAGE ALT TEXT HERE](images/chapter16.png)](https://youtu.be/20koiwNgqJU)
 
 # Chapter 17
-ู้เขียนได้ทำคลิปสอน เพื่ออธิบายเรื่อง module
+ผู้ขียนได้ทำคลิปสอน เพื่ออธิบายเรื่อง module
 [![IMAGE ALT TEXT HERE](images/chapter17.png)](https://youtu.be/SDuRsUf3x_s)
 
 # Install VS Code
