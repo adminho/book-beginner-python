@@ -1,7 +1,7 @@
 # Chapter 1
 ผู้เขียนได้ทำคลิปสรุปเนื้อหาบทที่ 1 
 เพื่อปูพื้นฐานสำหรับคนไม่มีความรู้เรื่องคอมพิวเตอร์เลย 
-[![IMAGE ALT TEXT HERE](images/chapter01.png)](https://youtu.be/8X1sf5BvK0o?list=PL3-rZgmhkOFcP2hzubPEflkfFjTKWwUA-)
+[![IMAGE ALT TEXT HERE](images/chapter01.png)](https://youtu.be/vH0tE4TOOmU)
 
 # Chapter 2
 เนื่องจากผู้เขียนเข้าใจดีว่าเริ่มต้นการเขียนโปรแกรมมันยาก
