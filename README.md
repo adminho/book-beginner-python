@@ -65,7 +65,8 @@
 [![IMAGE ALT TEXT HERE](images/install_tool.PNG)](https://youtu.be/ba-vGS8G_Ig)
 
 # Set path
-<!-กำลังสร้าง->
+ผู้ขียนได้ทำคลิปสอน เพื่ออธิบายเรื่อง set path
+[![IMAGE ALT TEXT HERE](images/review_book.PNG)](https://youtu.be/TIXWbkSAgrI)
 
 # รีวิวหนังสือ
 [![IMAGE ALT TEXT HERE](images/review_book.PNG)](https://youtu.be/9gDnbUo9n7U)
