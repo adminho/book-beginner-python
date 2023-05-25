@@ -66,7 +66,8 @@
 
 # Set path
 ผู้ขียนได้ทำคลิปสอน เพื่ออธิบายเรื่อง set path
-[![IMAGE ALT TEXT HERE](images/review_book.PNG)](https://youtu.be/TIXWbkSAgrI)
+[![IMAGE ALT TEXT HERE](images/set_path.PNG)](https://youtu.be/TIXWbkSAgrI)
 
 # รีวิวหนังสือ
+รีวิวหนังสือ
 [![IMAGE ALT TEXT HERE](images/review_book.PNG)](https://youtu.be/9gDnbUo9n7U)
